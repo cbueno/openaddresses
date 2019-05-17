@@ -5,7 +5,7 @@
         "city": "Belo Horizonte",
         "geometry": { "type": "Point", "coordinates": [-43.96, -19.92] }
     },
-    "data": "http://bhmapogcbase.pbh.gov.br/bhmapogcbase/ide_bhgeo/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=ide_bhgeo:ENDERECO&outputFormat=application%2Fjson&srsName=EPSG:4326",
+    "data": "http://bhmapogcbase.pbh.gov.br/bhmapogcbase/ide_bhgeo_geopackage/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=ide_bhgeo_geopackage:ENDERECO&outputFormat=application%2Fjson&srsName=EPSG:4326",
     "website": "https://dados.pbh.gov.br/dataset/portal-bhmap",
     "license": {
         "url": "http://opendatacommons.org/licenses/odbl/1.0/",
